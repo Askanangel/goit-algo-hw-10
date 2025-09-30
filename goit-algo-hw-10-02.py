@@ -1,5 +1,4 @@
-# Task 2: Monte Carlo integration with comparison to analytic (and SciPy if available),
-# plus a plot and a README with conclusions (UA).
+# Task 2: Monte Carlo integration with comparison to analytic
 
 import numpy as np
 import matplotlib.pyplot as plt
